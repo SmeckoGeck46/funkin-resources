@@ -25,7 +25,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Animation](#animation)
   - [Spritesheet Generation](#spritesheet-generation)
 - [Composing](#composing)
-  - [Free Software for Making Music](#free-softare-for-making-music)
+  - [Free Software for Making Music](#free-software-for-making-music)
   - [Chromatic Scale Guides](#chromatic-scale-guides)
 - [Programming](#programming)
   - [Engines and Forks](#engines-and-forks)
